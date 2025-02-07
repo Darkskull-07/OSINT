@@ -4,7 +4,7 @@ Open Source Intelligence (OSINT) from an ethical hacking perspective involves th
 
 OSINT techniques are ethical and legal, involving the use of publicly accessible sources such as:
 
-* Public websites and forums ** : Information from company websites, forums, and bulletin boards can provide insights into the technologies used, internal structure, and potential security weaknesses.
+* Public websites and forums : Information from company websites, forums, and bulletin boards can provide insights into the technologies used, internal structure, and potential security weaknesses.
 * Social media platforms: Public profiles and posts can reveal personal information about employees, organizational structure, and internal events that could be leveraged in social engineering attacks.
 * Government and public records: Databases and records available from government agencies can provide information on domain registrations, patents, and more that are useful for mapping out an organization's online presence.
 * Search engines: Advanced search engine techniques and dedicated tools can uncover hidden information and files related to a target that are available on the internet.
